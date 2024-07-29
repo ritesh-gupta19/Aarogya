@@ -73,7 +73,3 @@ Aarogya is a Java-based application designed to manage patient records. It provi
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
